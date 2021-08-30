@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "431986598610",
+    "project_id": "hinpishop",
+    "storage_bucket": "hinpishop.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:431986598610:android:ea8373115f10b52394c30b",
+        "android_client_info": {
+          "package_name": "com.vku.lmhie"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "431986598610-5ktlskdqotcugdc4jjkr2105j8amjoj1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAcdc-UU_sz1eTThuMw_058Iv8ApikSUm0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "431986598610-5ktlskdqotcugdc4jjkr2105j8amjoj1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
